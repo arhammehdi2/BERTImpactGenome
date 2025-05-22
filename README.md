@@ -25,7 +25,7 @@ Impact Genome maintains a registry of social program outcomes. These outcomes we
 
 
 
-## 📊 Exploratory Data Analysis (`DSC672_Group5_EDA.ipynb`)
+## Exploratory Data Analysis (`DSC672_Group5_EDA.ipynb`)
 - Can be run locally, on Google Colab, or Kaggle  
 - Upload `Validated Data from Heather.xlsx` and `Combined Data.xlsx` to your working folder  
 - Adjust paths in the code to match your environment  
@@ -38,7 +38,7 @@ Impact Genome maintains a registry of social program outcomes. These outcomes we
 
 
 
-## 🧪 Logistic Regression (`DSC672_Group5_LogisticRegression.ipynb`)
+## Logistic Regression (`DSC672_Group5_LogisticRegression.ipynb`)
 - Can be run locally, on Google Colab, or Kaggle  
 - Upload both Excel files to your working folder  
 - Adjust file paths as needed  
@@ -54,7 +54,7 @@ Impact Genome maintains a registry of social program outcomes. These outcomes we
 
 
 
-## 🔰 Baseline BERT Model (`BaselineBERT.ipynb`)
+## Baseline BERT Model (`BaselineBERT.ipynb`)
 - Developed in Kaggle, also compatible with Google Colab  
 - Upload `Combined Data.xlsx`  
 - Make sure to adjust paths and model save location  
