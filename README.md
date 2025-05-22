@@ -107,7 +107,7 @@ Impact Genome maintains a registry of social program outcomes. These outcomes we
 
 
 
-## 📦 Trained Models
+## Trained Models
 - `best_hierarchical_bert_model2.pt` → Model 2  
 - `basic_bert_model.pt` → Baseline BERT  
 - `hierarchical_bert_model3.pt` → Model 3  
