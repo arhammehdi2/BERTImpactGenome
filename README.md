@@ -1,8 +1,9 @@
 # BERTImpactGenome  
 **DSC 672 - Group 5 - Impact Genome**  
+
+- Arham Mehdi, DePaul University, kmehdi@depaul.edu  
 - Julia Aptekar, DePaul University, japtekar@depaul.edu  
 - John Leniart, DePaul University, jleniart@depaul.edu  
-- Arham Mehdi, DePaul University, kmehdi@depaul.edu  
 - Natalie Olechno, DePaul University, nolechno@depaul.edu  
 
 ---
